@@ -3,7 +3,9 @@
 Datasets experimentation with the interactive parallel sets visualisation for D3.js, originally available at http://www.jasondavies.com/parallel-sets and based on [Parallel Sets](http://eagereyes.org/parallel-sets) by Robert Kosara and Caroline Ziemkiewicz.
 
 Sample datasets:
+
 https://pedroprio.github.io/d3-parsets/analise_mercado_empresas_onibus.html
+
 https://pedroprio.github.io/d3-parsets/analise_frota_supervia.html
 
 ![Análise de Frota SuperVia](parsets.png)
