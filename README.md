@@ -1,14 +1,15 @@
 # d3.parsets
 
-An interactive parallel sets visualisation for D3.js.
+Datasets experimentation with the interactive parallel sets visualisation for D3.js, originally available at http://www.jasondavies.com/parallel-sets and based on [Parallel Sets](http://eagereyes.org/parallel-sets) by Robert Kosara and Caroline Ziemkiewicz.
 
-Example: <http://www.jasondavies.com/parallel-sets/>.
+Sample datasets:
+https://pedroprio.github.io/d3-parsets/analise_mercado_empresas_onibus.html
+https://pedroprio.github.io/d3-parsets/analise_frota_supervia.html
 
-![Titanic Survivors](http://www.jasondavies.com/parallel-sets/parsets.png)
+![Análise de Frota SuperVia](parsets.png)
 
-Functionality based on [Parallel Sets](http://eagereyes.org/parallel-sets) by Robert Kosara and Caroline Ziemkiewicz.
 
-## API
+## Original API information
 
 <a name="d3_parsets" href="#d3_parsets">#</a> d3.<b>parsets</b>()
 
