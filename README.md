@@ -4,9 +4,9 @@ Datasets experimentation with the interactive parallel sets visualisation for D3
 
 Sample datasets:
 
-https://pedroprio.github.io/d3-parsets/analise_mercado_empresas_onibus.html
+(https://pedroprio.github.io/d3-parsets/analise_mercado_empresas_onibus.html)
 
-https://pedroprio.github.io/d3-parsets/analise_frota_supervia.html
+(https://pedroprio.github.io/d3-parsets/analise_frota_supervia.html)
 
 ![Análise de Frota SuperVia](parsets.png)
 
